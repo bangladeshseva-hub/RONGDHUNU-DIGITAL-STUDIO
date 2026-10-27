@@ -1,0 +1,6 @@
+{
+  "name": "রংধনু ডিজিটাল স্টুডিও - Rongdhonu Digital Studio",
+  "description": "বাংলাদেশের সর্বাধুনিক ডিজিটাল সেবা প্ল্যাটফর্ম — এনআইডি, জন্মনিবন্ধন, পাসপোর্ট, ভূমি সেবা, ইউটিলিটি বিল ও অনলাইন আবেদন সহায়তা।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
